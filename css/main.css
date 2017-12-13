@@ -1,0 +1,21 @@
+body 
+{
+	
+background-color: #F5F5F5;
+	
+border-top: 0px solid #FBB13D;
+	
+border-bottom: 5px solid #FBB13D;
+	
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+span.red { /* for styling title */
+color: #FBB13D;
+}
+
+
+a {
+color: #FBB13D;
+}

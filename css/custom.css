@@ -1,0 +1,93 @@
+/*!
+ * Start Bootstrap - Business Casual (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #777;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background: url('/~schatra/metube_template_2017/uploads/ddd/concert.jpg');
+    -webkit-filter: grayscale(90%);
+	width: 100%;
+	margin: auto;
+    
+}
+
+
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    margin: 10px 0 30px 0;
+    letter-spacing: 10px; 
+    font-size: 20px;
+    color: #111;
+}
+
+.navbar {
+    font-family: Montserrat, sans-serif;
+}
+
+
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.navbar-right {
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+
+
+
+ .navbar {
+        border-radius: 0;
+    }
+
+    .navbar-header {
+        display: none;
+    }
+
+    .navbar {
+        min-height: 0;
+    }
+
+    .navbar-default {
+        border: none;
+        background: #fff;
+        background: rgba(255,255,255,0.9);
+    }
+
+    
+
+    .navbar-nav {
+        display: table;
+        float: none;
+        margin: 0 auto;
+        table-layout: fixed;
+        font-size: 1.25em;
+    }
+
+
+
+
+
+
+
+

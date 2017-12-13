@@ -1,0 +1,42 @@
+body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #777;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    -webkit-filter: grayscale(90%);
+	width: 100%;
+	margin: auto;
+    
+}
+
+
+
+input[type=submit] {
+
+	color:black;
+    }
+   input[type=reset] {
+
+	color:black;
+    }
+input[type=text] {
+
+	color:black;
+    }
+
+.passwd_result{
+	background:#FF9900;
+	color:#FFFFFF;
+	font-weight:bold;
+	margin-right:60%;
+}
+
+.upload_result{
+	background:#CC3300;
+	color:#FFFFFF;
+	font-weight:bold;
+	margin-right:60%;
+}
+
+
+
+
